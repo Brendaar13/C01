@@ -1,5 +1,6 @@
 # C01
 Variables and Control Structures Management
+
 Delve into the use of variables, control structures, and functions in C. This project focus on how to use control structures such as loops and conditionals, as well as how to manage data input and output.
 
 | Objectives |
@@ -10,6 +11,7 @@ Delve into the use of variables, control structures, and functions in C. This pr
 
 ## C01 (es)
 Manejo de Variables y Estructuras de Control
+
 Profundizar en el uso de variables, estructuras de control, y funciones en C. Este proyecto enseña cómo usar estructuras de control como bucles y condicionales, así como cómo gestionar la entrada y salida de datos.
 
 | Objectivos |
